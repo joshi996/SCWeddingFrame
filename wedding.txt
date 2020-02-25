@@ -1,4 +1,4 @@
 {
-    "ios":"https://www.baidu.com/",
+    "bug":"https://www.baidu.com/",
 
 }
